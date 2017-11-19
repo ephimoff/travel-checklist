@@ -2,21 +2,26 @@
 
 List of tips and things to pack. As well as some useful info.
 
-## Before the travel check
+## Before you travel
 
-- All batteries and powerbanks are charged
-- All software is updated on all devices
-- Back-ups are done for all devices (phones, laptops etc.)
-- _optional_ All devices are labled with your name and contact (twitter name would be a good one)
-- Water your plants.
+- Charge all batteries and powerbanks
+- Update all software on all devices
+- Back-up all devices (phones, laptops etc.)
+- Make digital copies of all important documents (passports, drivers licenses etc.) and upload them to the cloud service of choice
+- Consider travel and health insurance
+- Keep in contact with family and friends. Give a detailed copy of your itinerary, including accommodation details and your travel insurance policy, to a relative or friend.
+- Check visa requirements
+- Check that your passport is valid for at least 6 month after the first day of travel
+- Water your plants
+- _optional_ Lable all devices with your name and contact (twitter name would be a good one)
 
-## Things to pack
+## Pack your things
 
 ### Documents
 
 - Passport
-- Driver's license (even an international one)
-- Train/plane tickets (including verification documents for self-printed DB tickets. Check the List of accepted documents)
+- Driver's license
+- Hard copy of the tickets
 - Hotel booking
 - Health insurance card
 
@@ -33,12 +38,12 @@ List of tips and things to pack. As well as some useful info.
 - Flip Flops for showers
 - Deodorant, antiperspirant
 - Hairbrush/comb and hair dryer (in case your place/hotel doesn't supply one)
-- Earplugs
 - Everything for shaving (gel, razor, blades, after-shave etc.)
 - Everything for nails
 - Skin care
 - Sun block
 - Hand desinfectant, yet always wash your hands
+- Tissues
 
 ### Medication
 
@@ -93,12 +98,19 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map](http
 
 #### Other
 
-- Multitool (in checked-in luggage)
-- Torch (Have spare batteries or rechargeables)
-- Neck cushion (in carry-over bag)
-- Pocket knife (Check the regulatory of the destination country first)
-- Analog notebook
-- Pen, pencil
+- In carry-on bag:
+    - empty bottle for water
+    - travel pillow
+    - sleeping mask
+    - earplugs
+    - analog notebook
+    - pen, pencil
+    - snacks
+- In checked-on luggage:
+    - multitool and/or pocket knife (Check the regulatory of the destination country first)
+    - flashlight (Have spare batteries or rechargeables)
+    - travel locks
+    - luggage tags
 
 ## Travel that includes camping
 
