@@ -2,6 +2,27 @@
 
 List of tips and things to pack. As well as some useful info.
 
+<!-- TOC -->
+
+- [Travel checklist](#travel-checklist)
+    - [Before you travel](#before-you-travel)
+    - [Pack your things](#pack-your-things)
+        - [Documents](#documents)
+        - [Payment stuff](#payment-stuff)
+        - [Toiletry bag and health](#toiletry-bag-and-health)
+        - [Clothing](#clothing)
+        - [Gear](#gear)
+        - [Other](#other)
+    - [Travel that includes camping](#travel-that-includes-camping)
+        - [Campsite gear](#campsite-gear)
+        - [Kitchen](#kitchen)
+        - [Clothes](#clothes)
+    - [Things to send](#things-to-send)
+        - [Items that are explicitly forbidden to bring on a plane](#items-that-are-explicitly-forbidden-to-bring-on-a-plane)
+        - [Not allowed or often problematic on flights, or at least not in hand-lagguage](#not-allowed-or-often-problematic-on-flights-or-at-least-not-in-hand-lagguage)
+
+<!-- /TOC -->
+
 ## Before you travel
 
 - Charge all batteries and powerbanks
@@ -124,7 +145,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map](http
 - An actual book (for those offline blackout moments)
 - Tripod, Monopod or selfie-stick for the phone camera
 
-#### Other
+### Other
 
 - In carry-on bag:
     - empty bottle for water
@@ -143,12 +164,53 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map](http
 
 ## Travel that includes camping
 
-- Tent
-- Sleeping bag & pillow
-- Air-matress
-- Water proof clothing
-- Food
-- Bin bags (for rubbish and dirty clothes)
+### Campsite gear
+
+- Tent, poles, stakes
+- Tent footprint (ground cover for under your tent)
+- Sleeping bag for each camper
+- Sleeping pad for each camper
+- Repair kit for pads, mattress, tent, tarp
+- Pillows
+- Extra blankets
+- Chairs
+- Headlamps or flashlights (extra batteries)
+- Lantern
+- Lantern fuel or batteries
+
+### Kitchen
+
+- Stove
+- Fuel for stove
+- Matches or lighter
+- Firewood
+- Frying pan and pot
+- French press or portable coffee maker
+- Corkscrew
+- Tablecloth
+- Food-storage containers, bags
+- Trash bags
+- Cooler
+- Ice
+- Water bottles
+- Plates, bowls, forks, spoons, knives
+- Cups, mugs
+- Paring knife, spatula, cooking spoon
+- Cutting board
+- Foil
+- Biodegradable soap
+- Sponge, dishcloth, dishtowel
+- Paper towels
+- Extra bin for washing dishes
+
+### Clothes
+
+In addition to the one above
+
+- Hiking/walking shoes, easy-on shoes, water shoes
+- Extra layers for warmth
+- Gloves
+- Hats
 
 ## Things to send
 
