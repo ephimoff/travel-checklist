@@ -13,6 +13,13 @@ List of tips and things to pack. As well as some useful info.
 - Check visa requirements
 - Check that your passport is valid for at least 6 month after the first day of travel
 - Water your plants
+- Pre-pay your bills
+- Empty refrigerator of this that will expire
+- Unplug appliances (except for the fridge!)
+- Turn off heater/air conditioner
+- Lock all doors and windows
+- Leave house key and trip itinerary with a trusted friend
+- Install travel apps that will help with language, directions, and money conversion
 - _optional_ Lable all devices with your name and contact (twitter name would be a good one)
 
 ## Pack your things
@@ -21,8 +28,10 @@ List of tips and things to pack. As well as some useful info.
 
 - Passport
 - Driver's license
-- Hard copy of the tickets
-- Hotel booking
+- Itinenaries (hardcopy could be useful too):
+    - plane/train/bus tickets
+    - hotel booking
+    - car hire
 - Health insurance card
 
 ### Payment stuff
@@ -31,48 +40,67 @@ List of tips and things to pack. As well as some useful info.
 - Credit card(s)
 - Emergency numbers for your bank so you can lock your credit card/debit card
 
-### Personal hygiene
+### Toiletry bag and health
 
-- Tooth brush (plus charger if it is an electrical one), toothpaste and dental floss
+Liquids, gels, aerosols, creams, and pastes must be 100ml or less per container and they must be in a clear, plastic, zip-top bag.
+Check the expiry date of the meds you bring.
+
+- Tooth brush (plus charger if it is an electrical one), toothpaste and dental floss, mouthwash
 - Shower gel and shampoo
 - Flip Flops for showers
 - Deodorant, antiperspirant
-- Hairbrush/comb and hair dryer (in case your place/hotel doesn't supply one)
+- Hairbrush/comb and hair dryer (in case your place/hotel doesn't supply one), hair ties, barrettes/bobby pins
 - Everything for shaving (gel, razor, blades, after-shave etc.)
 - Everything for nails
 - Skin care
-- Sun block
 - Hand desinfectant, yet always wash your hands
 - Tissues
-
-### Medication
-
-Check the expiry date of the meds you bring.
-
-- Patches/bandaids
-- Aspirin, Panadol, Nurofen
-- Anti histamine
-- Something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
-- Camomile tea relives hyperacidity very well
-- Bepanthen
+- Insect repellent
+- Vitamins
+- Hand sanatizer/desinfectant
+- Sunscreen and face lotion with SPF
+- Make up packed in a wipeable wristlet
+- Face wash and/or makeup remover wipes and q-tips
+- Night time Moisturizer/Lotion
+- Lip balm with SPF and lipstick or lip gloss
+- Personal hygiene items
+- Feminine hygiene products
+- Medications
+    - pain and fever relievers
+    - patches/bandaids, adhesives, etc.
+    - anti histamine
+    - cold medicines and throat lozenges
+    - diarrhea/laxative medicines
+    - hydrocortisone cream/antibacterial ointment
+    - something for your stomach (if you've got a nervous digestive system when under stress, while flying or generally traveling)
+    - camomile tea relives hyperacidity very well
+    - bepanthen
+    - personal prescriptions (copies of scripts)
+    - sunburn relief
+    - insect repellent/mosquito net/sting reliever
+    - motion sickness pills or bands
+    - eye drops
 
 ### Clothing
 
-- Bring at least one for each day you stay, plus two for traveling:
+- Lightweight clothing that can be layered
+- At least one of the following for each day you stay, plus two for traveling:
     - shirt/t-shirt
     - set of clean underwear
-    - pair of socks
-- At least one long pants
-- At least one shorts (if it's warm enough)
-- Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
-- Long sleeve shirts
-- Hoodies
-- Jacket, coat (wind proof, at least somewhat water resistant)
-- Comfortable shoes
-- Umbrella
+    - pair of socks (wool socks are best for hiking)
+- At least one pair of pants and/or shorts
+- Long-sleeved shirts
+- Hoodies, sweaters or fleece jacket
+- Rain jacket, windbreaker or umbrella
+- Comfortable walking shoes
 - Bag to separate laundry from clean clothes in your luggage
-- Scarf
-- Swim suit, bikini
+- Scarf or bandana
+- Swim suit, bikini (consider a wet/dry organizer)
+- Sunglasses and glasses case
+- Pajamas/sleepwear
+- Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
+- Jewelry – organize in a mini cube or circlet
+- Hat or sun visor
 
 ### Gear
 
@@ -111,6 +139,7 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map](http
     - flashlight (Have spare batteries or rechargeables)
     - travel locks
     - luggage tags
+- Additional small daypack for day-to-day activities
 
 ## Travel that includes camping
 
