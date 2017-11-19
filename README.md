@@ -4,22 +4,21 @@ List of tips and things to pack. As well as some useful info.
 
 <!-- TOC -->
 
-- [Travel checklist](#travel-checklist)
-    - [Before you travel](#before-you-travel)
-    - [Pack your things](#pack-your-things)
-        - [Documents](#documents)
-        - [Payment stuff](#payment-stuff)
-        - [Toiletry bag and health](#toiletry-bag-and-health)
-        - [Clothing](#clothing)
-        - [Gear](#gear)
-        - [Other](#other)
-    - [Travel that includes camping](#travel-that-includes-camping)
-        - [Campsite gear](#campsite-gear)
-        - [Kitchen](#kitchen)
-        - [Clothes](#clothes)
-    - [Things to send](#things-to-send)
-        - [Items that are explicitly forbidden to bring on a plane](#items-that-are-explicitly-forbidden-to-bring-on-a-plane)
-        - [Not allowed or often problematic on flights, or at least not in hand-lagguage](#not-allowed-or-often-problematic-on-flights-or-at-least-not-in-hand-lagguage)
+- [Before you travel](#before-you-travel)
+- [Pack your things](#pack-your-things)
+    - [Documents](#documents)
+    - [Payment stuff](#payment-stuff)
+    - [Toiletry bag and health](#toiletry-bag-and-health)
+    - [Clothing](#clothing)
+    - [Gear](#gear)
+    - [Other](#other)
+- [Travel that includes camping](#travel-that-includes-camping)
+    - [Campsite gear](#campsite-gear)
+    - [Kitchen](#kitchen)
+    - [Clothes](#clothes)
+- [Things to send](#things-to-send)
+    - [Items that are explicitly forbidden to bring on a plane](#items-that-are-explicitly-forbidden-to-bring-on-a-plane)
+    - [Not allowed or often problematic on flights, or at least not in hand-lagguage](#not-allowed-or-often-problematic-on-flights-or-at-least-not-in-hand-lagguage)
 
 <!-- /TOC -->
 
