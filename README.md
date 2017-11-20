@@ -16,15 +16,13 @@ List of tips and things to pack. As well as some useful info.
     - [Campsite gear](#campsite-gear)
     - [Kitchen](#kitchen)
     - [Clothes](#clothes)
-- [Things to send](#things-to-send)
-    - [Items that are explicitly forbidden to bring on a plane](#items-that-are-explicitly-forbidden-to-bring-on-a-plane)
-    - [Not allowed or often problematic on flights, or at least not in hand-lagguage](#not-allowed-or-often-problematic-on-flights-or-at-least-not-in-hand-lagguage)
+- [Notes and tips](#notes-and-tips)
 
 <!-- /TOC -->
 
 ## Before you travel
 
-- Charge all batteries and powerbanks
+- Charge all devices and powerbanks
 - Update all software on all devices
 - Back-up all devices (phones, laptops etc.)
 - Make digital copies of all important documents (passports, drivers licenses etc.) and upload them to the cloud service of choice
@@ -36,11 +34,10 @@ List of tips and things to pack. As well as some useful info.
 - Pre-pay your bills
 - Empty refrigerator of this that will expire
 - Unplug appliances (except for the fridge!)
-- Turn off heater/air conditioner
 - Lock all doors and windows
 - Leave house key and trip itinerary with a trusted friend
 - Install travel apps that will help with language, directions, and money conversion
-- _optional_ Lable all devices with your name and contact (twitter name would be a good one)
+- _optional_ Lable all devices with your name and contact (twitter name would be a good one) in a consistent manner
 
 ## Pack your things
 
@@ -56,24 +53,23 @@ List of tips and things to pack. As well as some useful info.
 
 ### Payment stuff
 
-- Some cash (local currency or USD)
 - Credit card(s)
 - Emergency numbers for your bank so you can lock your credit card/debit card
+- Some cash (local currency or USD)
 
 ### Toiletry bag and health
 
-Liquids, gels, aerosols, creams, and pastes must be 100ml or less per container and they must be in a clear, plastic, zip-top bag.
+Liquids, gels, aerosols, creams, and pastes must be *100ml* or less per container and they must be in a clear, plastic, zip-top bag.
 Check the expiry date of the meds you bring.
 
 - Tooth brush (plus charger if it is an electrical one), toothpaste and dental floss, mouthwash
 - Shower gel and shampoo
-- Flip Flops for showers
+- Jandals for showers
 - Deodorant, antiperspirant
 - Hairbrush/comb and hair dryer (in case your place/hotel doesn't supply one), hair ties, barrettes/bobby pins
 - Everything for shaving (gel, razor, blades, after-shave etc.)
 - Everything for nails
 - Skin care
-- Hand desinfectant, yet always wash your hands
 - Tissues
 - Insect repellent
 - Vitamins
@@ -81,7 +77,7 @@ Check the expiry date of the meds you bring.
 - Sunscreen and face lotion with SPF
 - Make up packed in a wipeable wristlet
 - Face wash and/or makeup remover wipes and q-tips
-- Night time Moisturizer/Lotion
+- Night time moisturizer/lotion
 - Lip balm with SPF and lipstick or lip gloss
 - Personal hygiene items
 - Feminine hygiene products
@@ -111,7 +107,7 @@ Check the expiry date of the meds you bring.
 - At least one pair of pants and/or shorts
 - Long-sleeved shirts
 - Hoodies, sweaters or fleece jacket
-- Rain jacket, windbreaker or umbrella
+- Rain jacket, windbreaker
 - Comfortable walking shoes
 - Bag to separate laundry from clean clothes in your luggage
 - Scarf or bandana
@@ -120,27 +116,22 @@ Check the expiry date of the meds you bring.
 - Pajamas/sleepwear
 - Sewing set (needle, thread, spare button for your trousers/skirts/shirts/blouses/etc.)
 - Jewelry – organize in a mini cube or circlet
-- Hat or sun visor
+- Hats
 
 ### Gear
-
-Label ALL your gear in a consistent manner.
-Start charging your batteries right now so they're ready when you finish packing and leave.
 
 For travelling abroad there is a handy [World Electrical Plug & Socket Map](http://britishbusinessenergy.co.uk/plug-socket/)
 
 - Laptop and charger for it
 - Phone and charger for it
     - Lightning to 3.5mm audio jack adapter
-    - Investigate the deal with SIM card in the country of destination (roaming)
-    - Apple  SIM eject tool (aka bent paperclip) to swap SIM cards
--  watch and charger for it
+    - Investigate the roaming options in the country of destination
+    - Apple SIM eject tool or a paperclip to swap SIM cards
+- watch and charger for it
 - iPad (or another tablet) and charger for it
-- Headpones and charger for it
+- Wired and wireless headpones and charger for it
 - A powerbank and charger for it
 - Plug adaptor from your country of origin to the destination country
-- USB flash drives
-    - For devices with private information be sure to encrypt them!(VeraCrypt, GPG, FileVault, EncFS, Bitlocker, gbde, geli, dm-crypt, LUKS, eCryptFS)
 - An actual book (for those offline blackout moments)
 - Tripod, Monopod or selfie-stick for the phone camera
 
@@ -160,8 +151,11 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map](http
     - travel locks
     - luggage tags
 - Additional small daypack for day-to-day activities
+- A set of plastic zip bags for all sorts of things
 
 ## Travel that includes camping
+
+In addition to everything above
 
 ### Campsite gear
 
@@ -204,40 +198,17 @@ For travelling abroad there is a handy [World Electrical Plug & Socket Map](http
 
 ### Clothes
 
-In addition to the one above
-
 - Hiking/walking shoes, easy-on shoes, water shoes
 - Extra layers for warmth
 - Gloves
 - Hats
 
-## Things to send
+## Notes and tips
 
-Stuff that you're not allowed to bring on a plane or otherwise need to send via package courier or freight train. (Depending on its size.)
-
-### Items that are explicitly forbidden to bring on a plane
-
-- Ammunition
-- Fireworks
-- Explosives
-- Lighter benzine
-- Lighter gas (Butane)
-- Matches
-- Lighters (*only* allowed in hand luggage)
-- Butane cartridges
-- Propane cartridges
-- Radioactive medication
-- Toxics
-- Lead acid batteries
-- Mercury (Quecksilber)
-- Acids
-- Bleach
-- Peroxides
-- Self Balancing Scooters (Hoverboards)
-- (strong) rare-earths Magnets (really small and weak magnets, like the needle of a compass, are okay)
-
-### Not allowed or often problematic on flights, or at least not in hand-lagguage
-
-- All kind of blades
-- Lockpicking equipment
-- Handcuffs
+- [Stuff that you're not allowed to bring on a plane](https://www.tsa.gov/travel/security-screening/whatcanibring). Consider sending it via package courier or freight train
+- Pack everything in clear plastic bags (preferably zip lock), divided into items e.g. underwear, t-shirts, shorts etc. before packing in your suitcase or backpack. One plastic bag for each type of clothing.
+- If you want to make sure everything else in your bags stays clean and odor free, place the shoes inside old socks and then inside airtight plastic bags (ziplock)
+- Keep any medication and important papers in your carry-on bag. On long flights with multiple stopovers, packing a fresh change of clothes is a good idea as bags tend to get delayed or lost on long haul, multiple stop flights.
+- Roll your closthes or cube it, don't fold
+- Make sure your light coloured clothes are packed inside out
+- Hold on to hotel disposable shower caps and use them to cover the base of your shoes.
