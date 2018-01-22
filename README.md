@@ -122,6 +122,7 @@ Check the expiry date of the meds you bring.
 
 For travelling abroad there is a handy [World Electrical Plug & Socket Map](http://britishbusinessenergy.co.uk/plug-socket/)
 
+- **To take all possible charger for all devices: for powerbank, for watch etc.** There are so many cases when you need to charge multiple devices at once.
 - Laptop and charger for it
 - Phone and charger for it
     - Lightning to 3.5mm audio jack adapter
